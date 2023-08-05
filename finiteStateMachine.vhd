@@ -1,3 +1,10 @@
+--    Project  : Traffic Light Controller 
+--    File     : finiteStateMachine.vhd
+--    Author  : Ismail Walsh
+--    Company  : University of Leicester
+--    Date     : 2019
+-------------------------------------------------------------------------------------------
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 USE IEEE.STD_LOGIC_UNSIGNED.ALL;
