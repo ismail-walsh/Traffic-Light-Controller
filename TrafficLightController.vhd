@@ -1,5 +1,5 @@
 --    Project  : Traffic Light Controller
---    File     : Clock_Divider.vhd
+--    File     : TrafficLightController.vhd
 --    Authors  : Ismail Walsh
 --    Company  : University of Leicester
 --    Date     : 2019
