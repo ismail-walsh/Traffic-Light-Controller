@@ -1,3 +1,10 @@
+--    Project  : Traffic Light Controller
+--    File     : Clock_Divider.vhd
+--    Authors  : Ismail Walsh
+--    Company  : University of Leicester
+--    Date     : 2019
+-------------------------------------------------------------------------------------------
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 USE IEEE.STD_LOGIC_UNSIGNED.ALL;
