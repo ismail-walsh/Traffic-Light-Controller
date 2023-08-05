@@ -1,3 +1,10 @@
+--    Project  : Traffic Light Controller, test bench
+--    File     : TrafficLightController_TestBench.vhd
+--    Authors  : Ismail Walsh
+--    Company  : University of Leicester
+--    Date     : 2019
+-------------------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
