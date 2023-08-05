@@ -1,6 +1,7 @@
 # Traffic Light Controller with State Machine
 
 **Project Overview**
+
 The "Traffic Light Controller with State Machine" is a VHDL project that implements a traffic light controller using a Finite State Machine (FSM). The design generates control signals for a traffic light system based on inputs from road sensors and a programmable clock divider. The FSM manages the state transitions of the traffic lights to regulate the flow of vehicles at an intersection.
 
 **Authors**
